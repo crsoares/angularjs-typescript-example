@@ -32,6 +32,6 @@
     "live-server": "^0.9.1",
     "phantomjs": "^1.9.18",
     "phantomjs-polyfill": "0.0.1",
-    "typescript": "^1.7.5"
+    "typescript": "^1.8.10"
   }
 }
